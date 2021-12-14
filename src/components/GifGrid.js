@@ -1,6 +1,5 @@
 
 import React from 'react';
-
 import GifGridItem from './GifGridItem';
 import { useFetchGifs } from '../hooks/useFetchGifs';
 
